@@ -1,0 +1,31 @@
+---
+title: Microbiome Responses to Quaternary Ammonium Compounds in the Experimental Lakes
+  Area (ELA)
+author: "Sara-Gharouni-Saffar"
+date: "2024-10-22"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Data Description (Abstract):
+
+This project examines the impact of QACs on aquatic microbiomes in the ELA. High-throughput sequencing was used to analyze microbial diversity and abundance in response to QAC exposure. Data includes raw sequence files (FASTQ), taxonomic classifications (CSV), and relevant environmental metadata (XLSX).
+
+## Specifications Table:
+
+ **Data Type**: Microbiome sequences (16S rRNA), Environmental metadata
+
+ **Acquisition Method**: Illumina HiSeq sequencing, environmental sampling
+
+ **Formats**: FASTQ (raw sequences), CSV (taxonomic data), XLSX (environmental metadata)
+
+Data Description | Production | Acquisition Method | Format_Original | Format_Generic
+Microbial Sequences | Primary | Illumina HiSeq | FASTQ | FASTQ
+Environmental Data | Primary | Field Sampling | XLSX | CSV
+
+## Value of the Data:
+
+This dataset helps understand microbiome shifts under QAC exposure, offering insight into ecosystem responses to pollutants. Researchers studying environmental microbiology, ecotoxicology, and microbiome resilience can reuse the data for comparative studies.
