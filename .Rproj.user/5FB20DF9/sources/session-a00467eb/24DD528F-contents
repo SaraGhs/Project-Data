@@ -1,0 +1,12 @@
+
+# Raw Data Folder
+
+This folder contains raw sequence data in FASTQ format. Each file corresponds to a specific sample taken from the microbiome study. The files are named using the following convention:
+
+## File Naming Convention
+- `sampleID_date_sequence.fastq`
+
+### Sample Files:
+- `sample1_2024-10-21_sequence.fastq`
+
+These files are ready for pre-processing steps such as quality control and trimming using tools like `Trimmomatic` or `FastQC`.

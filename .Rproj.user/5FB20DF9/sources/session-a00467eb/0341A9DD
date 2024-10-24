@@ -1,0 +1,26 @@
+{
+    "id": "0341A9DD",
+    "path": "~/GEOG.712/Data-Project/Data/Processed/ProcessedData.Rmd",
+    "project_path": "Data/Processed/ProcessedData.Rmd",
+    "type": "r_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1729808031005.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "10,132",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1729808074,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1729808074456,
+    "read_only": false,
+    "read_only_alternatives": []
+}

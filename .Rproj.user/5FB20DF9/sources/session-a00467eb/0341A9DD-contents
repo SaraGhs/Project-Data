@@ -1,0 +1,11 @@
+# Processed Data Folder
+
+This folder contains processed taxonomic data generated from QIIME 2 or similar bioinformatics tools. The taxonomic classifications are provided in CSV format and describe microbial species present in each sample.
+
+## File Naming Convention
+- `sampleID_taxonomic_classification.csv`
+
+### Sample Files:
+- `sample1_taxonomic_classification.csv`
+
+Each CSV file contains columns representing taxonomic ranks (e.g., phylum, genus, species) and the relative abundance of each taxon.
