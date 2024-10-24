@@ -1,9 +1,0 @@
-# Metadata Folder
-
-This folder contains metadata describing the experimental setup, including sample collection, geographic location, environmental conditions, and sample IDs.
-
-## Metadata Files:
-- `DNARNAsamples_invertebrates_QAC_AugSep24.xlsx`: Contains details about the location, time, Project, and the number of samples.
-- `metadata_experimental_conditions.csv`: Contains information on how each sample was processed.
-
-Ensure that this metadata is used in conjunction with the raw and processed data for accurate analysis.
